@@ -1,7 +1,5 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -34,7 +32,7 @@ Your users should be able to:
 
 ### Screenshot
 
-Social links profile quick view
+Results summary component view
 ![](./assets/images/screenshot.jpg)
 
 ### Links
