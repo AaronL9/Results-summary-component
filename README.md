@@ -33,7 +33,7 @@ Your users should be able to:
 ### Screenshot
 
 Results summary component view
-![](./assets/images/screenshot.jpg)
+![](./assets/images/screenshot.png)
 
 ### Links
 
